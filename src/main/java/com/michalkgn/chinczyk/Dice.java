@@ -1,4 +1,4 @@
-package chinczyk;
+package com.michalkgn.chinczyk;
 
 import java.util.Random;
 
